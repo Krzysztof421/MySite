@@ -1,2 +1,2 @@
 # MySite
-Easy presentation page in HTML and CSS 3
+Simple presentation page in HTML and CSS 3
