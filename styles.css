@@ -120,8 +120,10 @@ a:hover{
   .skills{
       margin:20px auto 20px auto;
   }
-/* responsive */
- 
+
+  /* responsive */
+
+  
   @media screen and (max-width: 1420px) {
     .top-cloud{
        visibility: hidden;
@@ -129,4 +131,25 @@ a:hover{
       .bottom-cloud{
          visibility: hidden;
   }
+ 
+}
+
+@media screen and (max-width: 636px){
+
+    h1{
+        font-size: 200%;
+    }
+    h2{ font-size: 100%}
+
+    .contact-me {
+        width: 70%;
+        margin: 40px auto 60px;
+    
+    }
+    .mountain{
+        padding-bottom: 10px;
+        width: 100%;
+    
+    }
+
 }
